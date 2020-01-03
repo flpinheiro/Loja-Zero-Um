@@ -1,0 +1,4 @@
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\bin\Debug\netcoreapp3.1\Store.Domain.dll
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs

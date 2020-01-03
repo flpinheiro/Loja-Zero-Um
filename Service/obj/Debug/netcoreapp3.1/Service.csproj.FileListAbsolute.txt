@@ -1,0 +1,6 @@
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Service\bin\Debug\netcoreapp3.1\Store.CrossCutting.dll
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Service\bin\Debug\netcoreapp3.1\Store.Data.dll
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Service\bin\Debug\netcoreapp3.1\Store.Domain.dll
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
