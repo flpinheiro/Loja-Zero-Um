@@ -1,0 +1,24 @@
+﻿@using Store.Domain.Entities.Account
+@model User
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+
+<form method="post" asp-action="Logon" asp-controller="Home">
+    <fieldset>
+        <legend>Login</legend>
+
+        <label>
+            Email:
+            <input asp-for="Email" type="email" tooltip="Enter your email."/>
+        </label>
+        <label>
+            Password:
+            <input asp-for="PassWord" type="password" tooltip="Enter your password."/>
+        </label>
+        
+        <button>Enter</button>
+    </fieldset>
+</form>

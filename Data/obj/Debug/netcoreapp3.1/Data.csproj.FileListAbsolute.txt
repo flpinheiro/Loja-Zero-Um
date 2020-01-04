@@ -2,3 +2,12 @@ D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\bin\Debug\netcoreapp3
 D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
 D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
 D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\bin\Debug\netcoreapp3.1\Store.Data.deps.json
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\bin\Debug\netcoreapp3.1\Store.Data.runtimeconfig.json
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\bin\Debug\netcoreapp3.1\Store.Data.runtimeconfig.dev.json
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\bin\Debug\netcoreapp3.1\Store.Data.dll
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\bin\Debug\netcoreapp3.1\Store.Data.pdb
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\bin\Debug\netcoreapp3.1\Store.Domain.pdb
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\obj\Debug\netcoreapp3.1\Store.Data.dll
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Data\obj\Debug\netcoreapp3.1\Store.Data.pdb

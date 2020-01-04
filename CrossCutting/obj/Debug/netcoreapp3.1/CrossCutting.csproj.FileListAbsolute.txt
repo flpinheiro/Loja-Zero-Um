@@ -1,0 +1,11 @@
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\CrossCutting\bin\Debug\netcoreapp3.1\Store.Domain.dll
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\CrossCutting\bin\Debug\netcoreapp3.1\Store.CrossCutting.deps.json
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\CrossCutting\bin\Debug\netcoreapp3.1\Store.CrossCutting.dll
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\CrossCutting\bin\Debug\netcoreapp3.1\Store.CrossCutting.pdb
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\CrossCutting\bin\Debug\netcoreapp3.1\Store.Domain.pdb
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\CrossCutting\obj\Debug\netcoreapp3.1\Store.CrossCutting.dll
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\CrossCutting\obj\Debug\netcoreapp3.1\Store.CrossCutting.pdb

@@ -3,3 +3,6 @@ D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Domain\bin\Debug\netcoreap
 D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
 D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
 D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Domain\bin\Debug\netcoreapp3.1\Store.Domain.pdb
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Domain\obj\Debug\netcoreapp3.1\Store.Domain.dll
+D:\flpin\Documents\OneDrive\computação\Loja Zero Um\Domain\obj\Debug\netcoreapp3.1\Store.Domain.pdb
