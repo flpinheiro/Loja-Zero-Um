@@ -1,7 +1,9 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using Store.Domain.Entities.Account;
+using Store.Service.Services;
 using Store.WebApplication.Models;
 
 namespace Store.WebApplication.Controllers
@@ -36,13 +38,15 @@ namespace Store.WebApplication.Controllers
             return View();
         }
 
-        public IActionResult Logon(User user)
+        public IActionResult Logon([FromBody]User user)
         {
             if (user == null)
                 return NotFound();
 
             if (!ModelState.IsValid)
-                return View(user);
+                return Redirect(nameof(Login));
+
+            var accountService = new AccountBaseService<User>();
 
 
 

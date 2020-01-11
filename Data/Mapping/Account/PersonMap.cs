@@ -8,11 +8,11 @@ namespace Store.Data.Mapping.Account
     {
         public void Configure(EntityTypeBuilder<Person> builder)
         {
-            builder.ToTable("person");
+            //builder.ToTable("person");
 
             builder.HasBaseType<User>();
 
-            builder.HasKey(p => p.Id);
+            //builder.HasKey(p => p.Id);
 
             builder.Property(p => p.FirstName)
                 .IsRequired()
@@ -26,11 +26,11 @@ namespace Store.Data.Mapping.Account
                 .IsRequired()
                 .HasColumnName("birth_day");
 
-            builder.Property(p => p.Addresses)
-                .IsRequired();
+            //builder.Property(p => p.Addresses)
+            //    .IsRequired();
 
-            builder.Property(p => p.Phones)
-                .IsRequired();
+            //builder.Property(p => p.Phones)
+            //    .IsRequired();
             
             builder.HasMany(p => p.Addresses)
                 .WithOne(a => a.Person)

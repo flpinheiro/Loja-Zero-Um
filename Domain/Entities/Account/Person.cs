@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Store.Domain.Entities.Account
 {
+    /// <inheritdoc />
     public abstract class Person: User
     {
         public string FirstName { get; set; }

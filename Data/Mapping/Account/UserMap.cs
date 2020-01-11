@@ -12,6 +12,10 @@ namespace Store.Data.Mapping.Account
 
             builder.HasKey(u => u.Id);
 
+            //builder.HasNoDiscriminator();
+
+            builder.HasAlternateKey(u => u.Email);
+
             builder.Property(u => u.Email)
                 .IsRequired()
                 .HasColumnName("email");

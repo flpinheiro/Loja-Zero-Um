@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Store.Domain.Entities.Account;
 
@@ -29,7 +30,7 @@ namespace Store.Data.Mapping.Account
                 .HasColumnName("neighborhood");
 
             builder.Property(a => a.Number)
-                .IsRequired(false)
+                //.IsRequired(false)
                 .HasColumnName("number");
 
             builder.Property(a => a.State)
@@ -47,6 +48,37 @@ namespace Store.Data.Mapping.Account
             builder.Property(a => a.PersonId)
                 .IsRequired()
                 .HasColumnName("person_id");
+
+            builder.HasData(
+                new List<Address>() { new Address()
+                {
+                    City = "Brasília",
+                    Complement = null,
+                    Country = "Brasil",
+                    Id = 1,
+                    Neighborhood = "Taguatinga",
+                    Number = 25,
+                    State = "DF",
+                    ZipCode = "72115030",
+                    Street = "QNB 03",
+                    PersonId = 1
+                },
+                new Address()
+                {
+                    City = "Brasilia",
+                    Complement = "You Life Style, ap 309",
+                    Country = "Brasil",
+                    Id = 2,
+                    Neighborhood = "Aguas Claras",
+                    Number = 18,
+                    State = "DF",
+                    Street = "Av araucarias",
+                    ZipCode = "71153-410",
+                    PersonId = 2
+                },
+
+
+                });
 
         }
     }

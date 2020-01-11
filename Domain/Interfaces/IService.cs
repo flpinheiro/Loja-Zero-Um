@@ -11,18 +11,18 @@ namespace Store.Domain.Interfaces
         /// <summary>
         /// O método POST é utilizado para submeter uma entidade a um recurso específico, frequentemente causando uma mudança no estado do recurso ou efeitos colaterais no servidor.
         /// </summary>
-        /// <typeparam name="V"></typeparam>
+        /// <typeparam name="TV"></typeparam>
         /// <param name="obj"></param>
         /// <returns></returns>
-        T Post<V>(T obj) where V : AbstractValidator<T>;
+        T Post<TV>(T obj) where TV : AbstractValidator<T>;
 
         /// <summary>
         /// O método PUT substitui todas as atuais representações do recurso de destino pela carga de dados da requisição.
         /// </summary>
-        /// <typeparam name="V"></typeparam>
+        /// <typeparam name="TV"></typeparam>
         /// <param name="obj"></param>
         /// <returns></returns>
-        T Put<V>(T obj) where V : AbstractValidator<T>;
+        T Put<TV>(T obj) where TV : AbstractValidator<T>;
 
         /// <summary>
         /// O método DELETE remove um recurso específico.
